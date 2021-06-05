@@ -1,0 +1,16 @@
+{
+  "name": "visory",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/favicon.icns --prune=true --out=release-builds"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  },
+  "devDependencies": {
+    "electron": "^13.1.1",
+    "electron-packager": "^15.2.0"
+  }
+}
