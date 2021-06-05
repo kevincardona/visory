@@ -30,7 +30,7 @@ to close out of the app <b>right-click</b> on the menu bar and select quit
 <br/>
 
 ## downloads
-download it
+<a href="https://github.com/kevincardona/visory/releases/tag/v0.1.0">download it</a>
 
 
 ## why electron?
